@@ -17,6 +17,8 @@ SELECT title, description FROM film;
 ```
 ![Proje](images/1_madde.png)
 
+<img src="images/1_madde.png" width="320" height="180">
+
 <br>
 
 2-) <strong>film</strong>  tablosunda bulunan tüm sütunlardaki verileri film uzunluğu <strong>(length)</strong>  60 dan büyük <strong>VE</strong>  75 ten küçük olma koşullarıyla sıralayınız.
