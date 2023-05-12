@@ -17,7 +17,7 @@ SELECT title, description FROM film;
 ```
 ![Proje](images/1_madde.png)
 
-<img src="images/1_madde.png" width="320" height="180">
+<img src="images/1_madde.png" width="620" height="280">
 
 <br>
 
