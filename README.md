@@ -342,6 +342,75 @@ LIMIT 4;
 
 <img src="images/16_madde.png" width="620" height="280">
 
+<br>
+<br>
+<br>
+
+## SQL Ödev 6 | Aggregate Fonksiyonlar
+
+<br>
+<br>
+<br>
+
+1-) film tablosunda bulunan rental_rate sütunundaki değerlerin ortalaması nedir?
+
+
+```
+
+SELECT ROUND(AVG(rental_rate),2) 
+FROM film ;
+
+```
+
+
+
+<br>
+<br>
+<br>
+
+2-) film tablosunda bulunan filmlerden kaç tanesi 'C' karakteri ile başlar?
+
+```
+
+SELECT COUNT(*)
+FROM film
+WHERE title LIKE 'C%';
+
+```
+
+<br>
+<br>
+<br>
+
+3-) film tablosunda bulunan filmlerden rental_rate değeri 0.99 a eşit olan en uzun (length) film kaç dakikadır?
+
+```
+
+SELECT MAX(length) 
+FROM film 
+WHERE rental_rate = 0.99;
+
+```
+
+<br>
+<br>
+<br>
+
+4-) ffilm tablosunda bulunan filmlerin uzunluğu 150 dakikadan büyük olanlarına ait kaç farklı replacement_cost değeri vardır?
+
+
+```
+
+SELECT COUNT(DISTINCT replacement_cost) 
+FROM film 
+WHERE length > 150;
+
+```
+
+<br>
+<br>
+<br>
+
 Bu repo [Patika](https://academy.patika.dev/) SQL eğitimindeki ödev reposu. İçerisinde bir adet README dosyası barındırıyor.
 
 ## Installation
