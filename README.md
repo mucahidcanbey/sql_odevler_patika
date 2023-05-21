@@ -21,7 +21,6 @@ SELECT title, description FROM film;
 ```
 
 
-<img src="images/1_madde.png" width="620" height="280">
 
 <br>
 <br>
@@ -38,7 +37,7 @@ WHERE length > 60 AND length < 75;
 
 ```
 
-<img src="images/2_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -56,7 +55,7 @@ OR replacement_cost = 28.99;
 
 ```
 
-<img src="images/3_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -73,7 +72,7 @@ WHERE first_name = 'Mary';
 
 ```
 
-<img src="images/4_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -88,8 +87,6 @@ WHERE length <= 50
 AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
 
 ```
-
-<img src="images/5_madde.png" width="620" height="280">
 
 <br>
 <br>
@@ -110,7 +107,7 @@ WHERE replacement_cost BETWEEN 12.99 AND 16.99;
 
 ```
 
-<img src="images/6_madde.png" width="620" height="280">
+
 
 <br> 
 <br>
@@ -124,7 +121,7 @@ SELECT first_name, last_name FROM actor
 WHERE first_name IN ('Penelope', 'Nick', 'Ed');
 
 ```
-<img src="images/7_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -138,7 +135,7 @@ SELECT first_name, last_name FROM actor
 WHERE first_name IN ('Penelope', 'Nick', 'Ed');
 
 ```
-<img src="images/8_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -159,7 +156,7 @@ WHERE country ~~ 'A%a'
 
 ```
 
-<img src="images/9_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -175,8 +172,6 @@ WHERE country LIKE '_____%n'
 ```
 
 
-<img src="images/10_madde.png" width="620" height="280">
-
 <br>
 <br>
 <br>
@@ -189,7 +184,7 @@ SELECT title FROM film
 WHERE title ~~* '%T%T%T%T%' 
 
 ```
-<img src="images/11_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -204,7 +199,7 @@ WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 
 ```
 
-<img src="images/12_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -223,7 +218,7 @@ WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 SELECT DISTINCT replacement_cost FROM film
 
 ```
-<img src="images/13_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -302,7 +297,7 @@ LIMIT 5;
 
 ```
 
-<img src="images/14_maddee.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -321,7 +316,7 @@ LIMIT 5 OFFSET 5;
 
 ```
 
-<img src="images/15_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -340,7 +335,7 @@ LIMIT 4;
 
 ```
 
-<img src="images/16_madde.png" width="620" height="280">
+
 
 <br>
 <br>
@@ -477,8 +472,176 @@ LIMIT 1;
 <br>
 <br>
 
+## SQL Ödev 8 | Tablo Oluşturmak | Verileri Güncellemek"
+
+<br>
+<br>
+<br>
+
+1-) test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHAR(50), birthday DATE, email VARCHAR(100) olan bir tablo oluşturalım.
+
+
+```
+
+CREATE TABLE employee (
+  id INTEGER,
+  name VARCHAR(50) NOT NULL,
+  birthday DATE,
+  email VARCHAR(100)
+);
+
+```
+
+
+<br>
+<br>
+<br>
+
+2-) Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
+
+```
+
+insert into MOCK_DATA (id, name, birthday, email) values (1, 'Cobb', '1939/11/04', 'ckunert0@joomla.org');
+insert into MOCK_DATA (id, name, birthday, email) values (2, 'Martina', '1953/09/19', null);
+insert into MOCK_DATA (id, name, birthday, email) values (3, 'Alica', '1996/09/26', 'atilio2@wp.com');
+insert into MOCK_DATA (id, name, birthday, email) values (4, 'Arnold', null, 'amarcroft3@dion.ne.jp');
+insert into MOCK_DATA (id, name, birthday, email) values (5, 'Lanae', '1974/07/08', 'ldenziloe4@sourceforge.net');
+insert into MOCK_DATA (id, name, birthday, email) values (6, 'Stephie', '1919/04/02', null);
+insert into MOCK_DATA (id, name, birthday, email) values (7, 'Cordelie', '1982/03/26', null);
+insert into MOCK_DATA (id, name, birthday, email) values (8, 'Shelby', '1931/07/29', null);
+insert into MOCK_DATA (id, name, birthday, email) values (9, 'Celka', '1901/04/12', 'crulton8@fc2.com');
+insert into MOCK_DATA (id, name, birthday, email) values (10, 'Mordecai', '1902/12/18', 'mlassen9@google.com');
+insert into MOCK_DATA (id, name, birthday, email) values (11, 'Maria', '1930/10/22', 'mellesa@ucoz.com');
+insert into MOCK_DATA (id, name, birthday, email) values (12, 'Ichabod', '1992/05/14', 'ievensdenb@1688.com');
+insert into MOCK_DATA (id, name, birthday, email) values (13, 'Curran', null, null);
+insert into MOCK_DATA (id, name, birthday, email) values (14, 'Yelena', '1926/09/28', 'yserckd@home.pl');
+insert into MOCK_DATA (id, name, birthday, email) values (15, 'Yorke', '1915/07/09', 'yreaneye@lycos.com');
+insert into MOCK_DATA (id, name, birthday, email) values (16, 'Allina', '1939/09/26', 'aburkwoodf@free.fr');
+insert into MOCK_DATA (id, name, birthday, email) values (17, 'Jermaine', null, null);
+insert into MOCK_DATA (id, name, birthday, email) values (18, 'Oliviero', '1903/11/20', 'oohickeyh@mapy.cz');
+insert into MOCK_DATA (id, name, birthday, email) values (19, 'Emelyne', '1917/03/11', 'eferreirai@quantcast.com');
+insert into MOCK_DATA (id, name, birthday, email) values (20, 'Julissa', '1985/09/22', null);
+insert into MOCK_DATA (id, name, birthday, email) values (21, 'Myrna', '1944/03/27', 'mjagelsk@ihg.com');
+insert into MOCK_DATA (id, name, birthday, email) values (22, 'Francisco', '1962/04/24', null);
+insert into MOCK_DATA (id, name, birthday, email) values (23, 'Shep', '1933/12/27', 'scuttlerm@edublogs.org');
+insert into MOCK_DATA (id, name, birthday, email) values (24, 'Ursulina', '1988/08/22', 'umallinsonn@hp.com');
+insert into MOCK_DATA (id, name, birthday, email) values (25, 'Stearn', '1942/11/01', 'sdedricko@flickr.com');
+insert into MOCK_DATA (id, name, birthday, email) values (26, 'Normy', '1981/08/26', 'nbrecherp@barnesandnoble.com');
+insert into MOCK_DATA (id, name, birthday, email) values (27, 'Amalia', '1977/11/29', null);
+insert into MOCK_DATA (id, name, birthday, email) values (28, 'Paulette', '1976/09/10', 'plotsr@stumbleupon.com');
+insert into MOCK_DATA (id, name, birthday, email) values (29, 'Brietta', '1915/10/25', 'bcordss@t-online.de');
+insert into MOCK_DATA (id, name, birthday, email) values (30, 'Cassandry', '1999/05/23', null);
+insert into MOCK_DATA (id, name, birthday, email) values (31, 'Hercule', '1972/10/13', 'hmumu@hao123.com');
+insert into MOCK_DATA (id, name, birthday, email) values (32, 'Bram', null, 'bbortolv@cisco.com');
+insert into MOCK_DATA (id, name, birthday, email) values (33, 'Briano', '1923/01/08', null);
+insert into MOCK_DATA (id, name, birthday, email) values (34, 'Peadar', '1951/03/15', 'pcordreyx@narod.ru');
+insert into MOCK_DATA (id, name, birthday, email) values (35, 'Elfreda', '1990/11/10', 'ephilippsony@cam.ac.uk');
+insert into MOCK_DATA (id, name, birthday, email) values (36, 'Tybalt', '1943/08/14', 'tkennetz@blinklist.com');
+insert into MOCK_DATA (id, name, birthday, email) values (37, 'Jarib', '1910/10/22', 'jofer10@wordpress.org');
+insert into MOCK_DATA (id, name, birthday, email) values (38, 'Godwin', '1953/12/27', 'gashbe11@nytimes.com');
+insert into MOCK_DATA (id, name, birthday, email) values (39, 'Garvy', '1919/08/16', 'ggiffaut12@squidoo.com');
+insert into MOCK_DATA (id, name, birthday, email) values (40, 'Shawn', '1984/07/07', null);
+insert into MOCK_DATA (id, name, birthday, email) values (41, 'Gill', '1950/04/10', null);
+insert into MOCK_DATA (id, name, birthday, email) values (42, 'Ambrosi', null, 'aludovico15@netscape.com');
+insert into MOCK_DATA (id, name, birthday, email) values (43, 'Constantin', null, 'cbasilone16@clickbank.net');
+insert into MOCK_DATA (id, name, birthday, email) values (44, 'Van', '1989/06/22', 'vdigwood17@odnoklassniki.ru');
+insert into MOCK_DATA (id, name, birthday, email) values (45, 'Dugald', '1931/12/17', 'dlashbrook18@trellian.com');
+insert into MOCK_DATA (id, name, birthday, email) values (46, 'Francklyn', '1930/02/05', null);
+insert into MOCK_DATA (id, name, birthday, email) values (47, 'Ring', null, 'rthiolier1a@examiner.com');
+insert into MOCK_DATA (id, name, birthday, email) values (48, 'Quentin', '1947/09/20', null);
+insert into MOCK_DATA (id, name, birthday, email) values (49, 'Lurleen', '1978/06/01', 'lbegley1c@quantcast.com');
+insert into MOCK_DATA (id, name, birthday, email) values (50, 'Clarke', '1925/10/18', null);
+
+```
+
+<br>
+<br>
+<br>
+
+3-) Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
+
+
+```
+
+// İsim (name) sütununu güncellemek:
+
+UPDATE employee
+SET name = 'John Doe'
+WHERE name = 'Coob';
+
+
+// Doğum günü (birthday) sütununu güncellemek:
+
+UPDATE employee
+SET birthday = '1990-06-15'
+WHERE email = 'yserckd@home.pl';
+
+
+// E-posta (email) sütununu güncellemek:
+
+UPDATE employee
+SET email = 'johndoe@example.com'
+WHERE birthday = '1950/04/10';
+
+
+// İsim ve doğum günü sütunlarını güncellemek:
+
+UPDATE employee
+SET name = 'Jane Smith',
+    birthday = '1985-03-20'
+WHERE id = 4;
+
+
+// Tüm sütunları güncellemek:
+
+UPDATE employee
+SET name = 'Robert Johnson',
+    birthday = '1978-12-10',
+    email = 'robertjohnson@example.com'
+WHERE id = 5;
+
+
+```
+
+
+<br>
+<br>
+<br>
+
+
+4-) Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+
 
 Bu repo [Patika](https://academy.patika.dev/) SQL eğitimindeki ödev reposu. İçerisinde bir adet README dosyası barındırıyor.
+
+
+```
+
+DELETE FROM employee
+WHERE id = 44;
+
+DELETE FROM employee
+WHERE name ='Constantin';
+
+DELETE FROM employee
+WHERE name = 'Jane Smith' AND birthday = '1985-03-20';
+
+DELETE FROM employee
+WHERE email = 'umallinsonn@hp.com';
+
+DELETE FROM employee
+WHERE id >5
+RETURNING *;
+
+```
+
+
+
+<br>
+<br>
+<br>
+
+
 
 ## Installation
 
