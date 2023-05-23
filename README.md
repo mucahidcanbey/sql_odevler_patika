@@ -638,7 +638,7 @@ RETURNING *;
 <br>
 <br>
 
-## 
+## SQL Ödev 9 | INNER JOIN
 
 1-) city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 
