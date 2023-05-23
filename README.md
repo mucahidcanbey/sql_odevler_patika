@@ -689,6 +689,58 @@ INNER JOIN rental ON customer.customer_id = rental.customer_id;
 <br>
 <br>
 
+## SQL Ödev 10 | LEFT JOIN, RIGHT JOIN, FULL JOIN
+
+1-) city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz LEFT JOIN sorgusunu yazınız.
+
+
+
+```
+
+SELECT city.city, country.country
+FROM city
+LEFT JOIN country ON city.country_id = country.country_id;
+
+```
+
+
+<br>
+<br>
+<br>
+
+2-) customer tablosu ile payment tablosunda bulunan payment_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz RIGHT JOIN sorgusunu yazınız.
+
+
+
+```
+
+SELECT payment.payment_id, customer.first_name, customer.last_name
+FROM customer
+RIGHT JOIN payment ON customer.customer_id = payment.customer_id;
+
+```
+
+
+<br>
+<br>
+<br>
+
+3-) customer tablosu ile rental tablosunda bulunan rental_id ile customer tablosundaki first_name ve last_name isimlerini birlikte görebileceğimiz FULL JOIN sorgusunu yazınız.
+
+
+
+```
+
+SELECT payment_id, first_name, last_name FROM payment
+FULL JOIN customer ON customer.customer_id= payment.customer_id
+
+```
+
+
+<br>
+<br>
+<br>
+
 Bu repo [Patika](https://academy.patika.dev/) SQL eğitimindeki ödev reposu. İçerisinde bir adet README dosyası barındırıyor.
 
 
