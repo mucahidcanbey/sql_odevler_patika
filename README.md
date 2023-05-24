@@ -43,17 +43,12 @@
 
 
 
- 9. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join-1">SQL Ödev 9 | </a>
+ 9. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">SQL Ödev 9 | </a>
+ 10. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">SQL Ödev 10 | </a>
 
+ 11. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">SQL Ödev 11 |</a>
 
-
- 10. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join-1">SQL Ödev 10 | </a>
-
-
- 11. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except-1">SQL Ödev 11 |</a>
-
-
- 12. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1-1">SQL Ödev 12 | </a>
+ 12. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">SQL Ödev 12 | </a>
 
 <br>
 <br>
