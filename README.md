@@ -3,6 +3,9 @@
 
 # ![Image](https://r.resimlink.com/QvqbJzUg.png)
 
+ <a href="#SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörleri">Getting Started</a>
+
+
 ## SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörleri
 
 <br>
