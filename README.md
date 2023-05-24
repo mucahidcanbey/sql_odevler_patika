@@ -7,60 +7,53 @@
 <br>
 <br>
 
-> Bu repo'da [Patika](https://academy.patika.dev/) SQL eğitiminde yapmış olduğunuz bütün ödevler bulunmaktadır.
+> #### Bu repo'da [Patika](https://academy.patika.dev/) SQL eğitiminde yapmış olduğunuz bütün ödevler bulunmaktadır.
 
 <br>
 <br>
 
- 1. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rleri">SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörler.</a>
-
- <br>
-
- 2. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">SQL Ödev 2 | BETWEEN ve IN.</a>
-
-<br>
+ 1. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rleri">SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörler.</a>
 
 
- 3. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike"> SQL Ödev 3 | LIKE ve ILIKE.</a>
-
-<br>
+ 2. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">SQL Ödev 2 | BETWEEN ve IN.</a>
 
 
- 4. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">SQL Ödev 4 | DISTINCT ve COUNT.</a>
-
-<br>
+ 3. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike"> SQL Ödev 3 | LIKE ve ILIKE.</a>
 
 
- 5. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">SQL Ödev 5 | ORDER BY | LIMIT ve OFFSET.</a>
 
-<br>
-
- 6. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">SQL Ödev 6 | Aggregate Fonksiyonlar.</a>
-
-<br>
+ 4. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">SQL Ödev 4 | DISTINCT ve COUNT.</a>
 
 
- 7. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">SQL Ödev 7 | GROUP BY | HAVING.</a>
 
-<br>
 
- 8. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">SQL Ödev 8 | Tablo Oluşturmak | Verileri Güncellemek.</a>
+ 5. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">SQL Ödev 5 | ORDER BY | LIMIT ve OFFSET.</a>
 
-<br>
 
- 9. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">SQL Ödev 9 | INNER JOIN.</a>
+ 6. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">SQL Ödev 6 | Aggregate Fonksiyonlar.</a>
 
-<br>
 
- 10. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">SQL Ödev 10 | LEFT JOIN, RIGHT JOIN, FULL JOIN.</a>
 
-<br>
 
- 11. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">SQL Ödev 11 | UNION, INTERSECT ve EXCEPT.</a>
+ 7. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">SQL Ödev 7 | GROUP BY | HAVING.</a>
 
-<br>
 
- 12. ###  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">SQL Ödev 12 | Sorgu Senaryoları.</a>
+
+ 8. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">SQL Ödev 8 | Tablo Oluşturmak | Verileri Güncellemek.</a>
+
+
+
+ 9. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">SQL Ödev 9 | INNER JOIN.</a>
+
+
+
+ 10. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">SQL Ödev 10 | LEFT JOIN, RIGHT JOIN, FULL JOIN.</a>
+
+
+ 11. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">SQL Ödev 11 | UNION, INTERSECT ve EXCEPT.</a>
+
+
+ 12. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">SQL Ödev 12 | Sorgu Senaryoları.</a>
 
 <br>
 <br>
