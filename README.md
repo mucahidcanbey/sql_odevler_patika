@@ -3,7 +3,7 @@
 
 # ![Image](https://r.resimlink.com/QvqbJzUg.png)
 
- <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">Getting Started</a>
+ ### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">Getting Started</a>
 
 
 ## SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörleri
