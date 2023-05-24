@@ -12,37 +12,14 @@
 <br>
 <br>
 
- 1. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler-1">SQL Ödev 1 | </a>
-
-
- 2. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in-1">SQL Ödev 2 | </a>
-
-
+ 1. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler">SQL Ödev 1 | </a>
+ 2. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">SQL Ödev 2 | </a>
  3. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike"> SQL Ödev 3 | </a>
-
-
-
- 4. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count-1">SQL Ödev 4 | </a>
-
-
-
-
- 5. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset-1">SQL Ödev 5 | </a>
-
-
- 6. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar-1">SQL Ödev 6 | </a>
-
-
-
-
- 7. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having-1">SQL Ödev 7 |</a>
-
-
-
- 8. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek-1">SQL Ödev 8 | </a>
-
-
-
+ 4. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">SQL Ödev 4 | </a>
+ 5. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">SQL Ödev 5 | </a>
+ 6. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">SQL Ödev 6 | </a>
+ 7. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">SQL Ödev 7 |</a>
+ 8. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">SQL Ödev 8 | </a>
  9. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">SQL Ödev 9 | </a>
  10. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">SQL Ödev 10 | </a>
 
