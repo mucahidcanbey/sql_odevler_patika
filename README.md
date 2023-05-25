@@ -13,15 +13,15 @@
 
 <br>
 
- - **SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler">Tıklayın. </a>**
- - **SQL Ödev 2 | BETWEEN ve IN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">Tıklayın.</a>**
- - **SQL Ödev 3 |  LIKE ve ILIKE - T<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike">ıklayın.</a>**
- - **SQL Ödev 4 | DISTINCT ve COUNT - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">Tıklayın.</a>**
- - **SQL Ödev 5 | ORDER BY | LIMIT ve OFFSET - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">Tıklayın.</a>**
- - **SQL Ödev 6 | Aggregate Fonksiyonlar - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">Tıklayın.</a>**
- - **SQL Ödev 7 | GROUP BY | HAVING - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">Tıklayın.</a>**
- - **SQL Ödev 8 | GROUP BY | HAVING - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">Tıklayın.</a>**
- - **SQL Ödev 9 | Tablo Oluşturma | Veri Güncelleme" - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">Tıklayın.</a>**
+ - **SQL Ödev 01 | WHERE ve Karşılaştırma & Mantıksal - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler">Tıklayın. </a>**
+ - **SQL Ödev 02 | BETWEEN ve IN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">Tıklayın.</a>**
+ - **SQL Ödev 03 |  LIKE ve ILIKE - T<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike">ıklayın.</a>**
+ - **SQL Ödev 04 | DISTINCT ve COUNT - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">Tıklayın.</a>**
+ - **SQL Ödev 05 | ORDER BY | LIMIT ve OFFSET - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">Tıklayın.</a>**
+ - **SQL Ödev 06 | Aggregate Fonksiyonlar - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">Tıklayın.</a>**
+ - **SQL Ödev 07 | GROUP BY | HAVING - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">Tıklayın.</a>**
+ - **SQL Ödev 08 | GROUP BY | HAVING - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">Tıklayın.</a>**
+ - **SQL Ödev 09 | Tablo Oluşturma | Veri Güncelleme" - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">Tıklayın.</a>**
  - **SQL Ödev 10 | INNER JOIN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">Tıklayın.</a>**
  - **SQL Ödev 11 | LEFT, RIGHT, FULL JOIN - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">Tıklayın.</a>**
  - **SQL Ödev 12 | UNION, INTERSECT ve EXCEPT - <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">Tıklayın.</a>**
@@ -32,7 +32,7 @@
 <br>
 
 
-## SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörler 
+## SQL Ödev 01 | WHERE ve Karşılaştırma & Mantıksal Operatörler 
 
 <br>
 <br>
@@ -124,7 +124,7 @@ AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
 <br>
 <br>
 
-## SQL Ödev 2 | BETWEEN ve IN
+## SQL Ödev 02 | BETWEEN ve IN
 
 <br>
 <br>    
@@ -176,7 +176,7 @@ WHERE first_name IN ('Penelope', 'Nick', 'Ed');
 <br>
 <br>
 
-## SQL Ödev 3 | LIKE ve ILIKE
+## SQL Ödev 03 | LIKE ve ILIKE
 
 <br>
 <br>
@@ -243,7 +243,7 @@ WHERE title LIKE 'C%' AND length > 90 AND rental_rate = 2.99;
 <br>
 <br>
 
-## SQL Ödev 4 | DISTINCT ve COUNT
+## SQL Ödev 04 | DISTINCT ve COUNT
 
 <br>
 <br>
@@ -320,7 +320,7 @@ WHERE city ILIKE 'R%'
 <br>
 <br>
 
-## SQL Ödev 5 | ORDER BY | LIMIT ve OFFSET
+## SQL Ödev 05 | ORDER BY | LIMIT ve OFFSET
 
 <br>
 <br>
@@ -385,7 +385,7 @@ LIMIT 4;
 <br>
 <br>
 
-## SQL Ödev 6 | Aggregate Fonksiyonlar
+## SQL Ödev 06 | Aggregate Fonksiyonlar
 
 <br>
 <br>
@@ -453,7 +453,7 @@ WHERE length > 150;
 <br>
 <br>
 
-## SQL Ödev 7 | GROUP BY | HAVING
+## SQL Ödev 07 | GROUP BY | HAVING
 
 <br>
 <br>
@@ -522,7 +522,7 @@ LIMIT 1;
 <br>
 <br>
 
-## SQL Ödev 8 | Tablo Oluşturmak | Verileri Güncellemek"
+## SQL Ödev 08 | Tablo Oluşturmak | Verileri Güncellemek"
 
 <br>
 <br>
@@ -687,11 +687,11 @@ RETURNING *;
 <br>
 
 - **Geri Dönmek İçin - <a href="https://github.com/mucahidcanbey/sql_odevler_patika">Tıklayın.</a>**
-- 
+
 <br>
 <br>
 
-## SQL Ödev 9 | INNER JOIN
+## SQL Ödev 09 | INNER JOIN
 
 1-) city tablosu ile country tablosunda bulunan şehir (city) ve ülke (country) isimlerini birlikte görebileceğimiz INNER JOIN sorgusunu yazınız.
 
