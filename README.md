@@ -1,31 +1,32 @@
+<br>
+<br>
 
 
 
 # ![Image](https://r.resimlink.com/QvqbJzUg.png)
 
 <br>
-<br>
-<br>
+
+
+ # SQL Eğitim Patika 
 
 > #### Bu repo'da [Patika](https://academy.patika.dev/) SQL eğitiminde yapmış olduğunuz bütün ödevler bulunmaktadır.
 
 <br>
 <br>
 
- 1. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler">SQL Ödev 1 | </a>
- 2. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">SQL Ödev 2 | </a>
- 3. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike"> SQL Ödev 3 | </a>
- 4. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">SQL Ödev 4 | </a>
- 5. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">SQL Ödev 5 | </a>
- 6. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">SQL Ödev 6 | </a>
- 7. #### <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">SQL Ödev 7 |</a>
- 8. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">SQL Ödev 8 | </a>
- 9. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">SQL Ödev 9 | </a>
- 10. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">SQL Ödev 10 | </a>
-
- 11. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">SQL Ödev 11 |</a>
-
- 12. ####  <a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">SQL Ödev 12 | </a>
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-1--where-ve-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma--mant%C4%B1ksal-operat%C3%B6rler">SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal - Tıklayın. </a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-2--between-ve-in">SQL Ödev 2 | BETWEEN ve IN - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-3--like-ve-ilike"> SQL Ödev 3 |  LIKE ve ILIKE - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-4--distinct-ve-count">SQL Ödev 4 | DISTINCT ve COUNT - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-5--order-by--limit-ve-offset">SQL Ödev 5 | ORDER BY | LIMIT ve OFFSET - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-6--aggregate-fonksiyonlar">SQL Ödev 6 | Aggregate Fonksiyonlar - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-7--group-by--having">SQL Ödev 7 | GROUP BY | HAVING - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-8--tablo-olu%C5%9Fturmak--verileri-g%C3%BCncellemek">SQL Ödev 8 | GROUP BY | HAVING - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-9--inner-join">SQL Ödev 9 | Tablo Oluşturma | Veri Güncelleme" - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-10--left-join-right-join-full-join">SQL Ödev 10 | INNER JOIN - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-11--union-intersect-ve-except">SQL Ödev 11 | LEFT, RIGHT, FULL JOIN - Tıklayın.</a>**
+ - **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">SQL Ödev 12 | UNION, INTERSECT ve EXCEPT - Tıklayın.</a>**
 
 <br>
 <br>
@@ -38,7 +39,7 @@
 
 
 
-## SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörler
+## SQL Ödev 1 | WHERE ve Karşılaştırma & Mantıksal Operatörler **<a href="https://github.com/mucahidcanbey/sql_odevler_patika#sql-%C3%B6dev-12--sorgu-senaryolar%C4%B1">Geri Dönmek İçin - Tıklayın.</a>**
 
 <br>
 <br>
